@@ -9,6 +9,10 @@ const page = () => {
       <h2 className='text-3xl text-center font-semibold tracking-tighter mt-15'>
         Nested Dynamic Routes 
       </h2>
+
+      <h2 className='text-3xl text-center font-semibold tracking-tighter mt-15'>
+        Catch All Segment and Optional Catch All Segment
+      </h2>
     </div>
   )
 }
